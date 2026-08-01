@@ -1,0 +1,22 @@
+env
+venv
+/env
+/venv
+
+# Django specific ignores
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.log
+
+# Database
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+.env.local
+
+db.sqlite3
+
